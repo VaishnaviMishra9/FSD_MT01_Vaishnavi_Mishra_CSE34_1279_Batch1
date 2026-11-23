@@ -1,4 +1,6 @@
-Student Record Management API (Set B)
+# FSD_MT01_Vaishnavi_Mishra_CSE34_1279_Batch1
+
+## Student Record Management API (Set B)
 
 REST API built with Node.js and Express.js. Data is stored in an in-memory JavaScript array (no database).
 
@@ -29,3 +31,4 @@ json
 Testing
 
 All endpoints tested using Postman / Thunder Client. Screenshots are in the screenshots/ folder.
+# FSD_MT01_Vaishnavi_Mishra_CSE34_1279_Batch1
